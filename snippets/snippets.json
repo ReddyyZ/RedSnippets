@@ -1,0 +1,48 @@
+{
+    "Resets default styles": {
+        "scope": "css,html,javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": "resets",
+        "body": [
+            "* {",
+            "   margin: 0;",
+            "   padding: 0;",
+            "   outline: 0;",
+            "   box-sizing: border-box;",
+            "}"
+        ],
+
+        "description": "Resets default styles, margin, padding and outline"
+    },
+
+    "Centralize div": {
+        "scope": "css,html,javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": "centralize",
+        "body": [
+            "display: flex;",
+            "align-items: center;",
+            "justify-content: center;"
+        ],
+
+        "description": "Stylize div to align content to center"
+    },
+
+    "Initialize HTML": {
+        "scope": "html,php,javascript,javascriptreact,typescript,typescriptreact",
+        "prefix": "inithtml",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html>",
+            "   <head>",
+            "       <meta charset='UTF-8'>",
+            "       <title>Title</title>",
+            "   </head>",
+            "   <body>",
+            "       <p>RedSnippets: The best extension to make your life easier using snippets!</p>",
+            "   </body>",
+            "</html>"
+        ],
+
+        "description": "Initializes a HTML file"
+    }
+    
+}

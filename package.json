@@ -1,0 +1,22 @@
+{
+    "name": "red-snippets",
+    "displayName": "RedSnippets",
+    "description": "The best extension to make your life easier using snippets!",
+    "version": "1.0.0",
+    "repository": "https://github.com/ReddyyZ/RedSnippets",
+    "publisher": "ReddyyZ",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
