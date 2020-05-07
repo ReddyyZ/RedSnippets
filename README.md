@@ -3,19 +3,7 @@
 
 ![demonstration](assets/demonstration.gif)
 
-## Snippets
-
-- ### resets
-
-Resets default styles, margin, padding and outline
-
-- ### centralize
-
-Stylize div to align content to center
-
-- ### inithtml
-
-Initializes a HTML file
+## [Snippets](snippets.md)
 
 ## Github Link
 
