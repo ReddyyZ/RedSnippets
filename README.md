@@ -3,7 +3,7 @@
 
 ![demonstration](assets/demonstration.gif)
 
-## [Snippets](snippets.md)
+## See [Snippets](snippets.md)
 
 ## Github Link
 
