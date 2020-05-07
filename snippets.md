@@ -1,3 +1,5 @@
+# Snippets
+
 - ### inithtml
 Initialize HTML file
 #
